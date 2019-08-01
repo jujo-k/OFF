@@ -20,6 +20,4 @@ public class Djinzhi {
         }
         System.out.println(s.reverse());
     }
-
-
 }
